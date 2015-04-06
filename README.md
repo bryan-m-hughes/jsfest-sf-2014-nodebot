@@ -1,4 +1,4 @@
-jsfest-nodebot
+JSFest NodeBot
 ==============
 
 This code was first used at a hack day event for [JSFest](http://jsfest.com/) 2014 in San Francisco, and then again for a kids workshop on robotics.
