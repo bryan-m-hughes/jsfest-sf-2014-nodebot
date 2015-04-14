@@ -14,7 +14,7 @@ Here is the wiring diagram for the SumoBot. Make sure that you get everything wi
 - Install [Node.js](http://nodejs.org/)
 - If you are on Windows, install [Git](http://www.git-scm.com/). Mac OS X and Linux come with Git preinstalled
 - Open a terminal, and navigate to the folder you want to install the project at
-- Run ```git clone ```
+- Run ```git clone https://github.com/bryan-m-hughes/jsfest-sf-2014-nodebot.git```
 - ```cd``` into the ```jsfest-sf-2014-nodebot``` directory
 - Run ```npm install```
 
